@@ -6,6 +6,13 @@ We are conducting a hackathon on 'Digital Twin of Meeting Note Taker'.
 ### Digital Twin of Meeting Note Taker
 A ‘Digital Twin Note taker’', is a concept of Dowell. It can be considered as a digital identity like a live member participating in a live interactive event/meeting/session irrespective of meeting platforms. This is to make a digital replica of the Note taker, who records the essence of the meeting as  and when required or continuously. It can be proposed as an app or a bot which will be invited as a live member in the meetings. It should be envisaged to hear and take verbatim notes with speaker identification and timestamps along with audio and video recording and screen shots / screen shares.
 
+### Details of Hackathon
+
+Location:  Online (GitHub)
+Duration:  12th October,2020 (Monday) to 30th October,2020 (Friday)
+Contact: DoWell Team Organizer
+Email: ops07@dowellresearch.in
+
 ### Registration Rules
 
 1. Minimum education qualification- 12th/higher secondary passed

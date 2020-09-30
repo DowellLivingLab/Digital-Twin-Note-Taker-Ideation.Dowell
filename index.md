@@ -9,8 +9,11 @@ A ‘Digital Twin Note taker’', is a concept of Dowell. It can be considered a
 ### Details of Hackathon
 
 Location:  Online (GitHub)
+
 Duration:  12th October,2020 (Monday) to 30th October,2020 (Friday)
+
 Contact: DoWell Team Organizer
+
 Email: ops07@dowellresearch.in
 
 ### Registration Rules

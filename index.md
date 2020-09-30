@@ -16,7 +16,7 @@ Contact: DoWell Team Organizer
 
 Email: ops07@dowellresearch.in
 
-### Registration Rules
+### Participation Rules
 
 1. Minimum education qualification- 12th/higher secondary passed
 

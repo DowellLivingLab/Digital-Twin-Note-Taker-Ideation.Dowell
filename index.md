@@ -46,7 +46,7 @@ Non Eligibility Criteria
 
 ### Registration rules of hackathon
 
-1. Last Date of Registration is 1st Oct 2020.
+1. Last Date of Registration is 15 Oct 2020.
 
 2. No payment required for registration and participation
 

@@ -1,7 +1,7 @@
 ## Dowell Hackathon 1001
 We are conducting a hackathon on 'Digital Twin of Meeting Note Taker'.
 
-[![Image of Yaktocat]https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell/blob/website/gg.png?raw=true)](https://www.youtube.com/watch?v=622-7H4ra08&feature=youtu.be ){:target="_blank" }
+![Image of Yaktocat]https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell/blob/website/gg.png?raw=true)(https://www.youtube.com/watch?v=622-7H4ra08&feature=youtu.be ){:target="_blank" }
 
 ### Digital Twin of Meeting Note Taker
 A ‘Digital Twin Note taker’', is a concept of Dowell. It can be considered as a digital identity like a live member participating in a live interactive event/meeting/session irrespective of meeting platforms. This is to make a digital replica of the Note taker, who records the essence of the meeting as  and when required or continuously. It can be proposed as an app or a bot which will be invited as a live member in the meetings. It should be envisaged to hear and take verbatim notes with speaker identification and timestamps along with audio and video recording and screen shots / screen shares.

@@ -78,6 +78,8 @@ Non Eligibility Criteria
 
 The prize for the winning team will be 50$ amazon voucher
 
+All participants of hackathon will be awarded participation certificates
+
 Participants shall acknowledge and agree that Dowell shall have no liability whatsoever on how the prizes will be split up between team members.
 
 

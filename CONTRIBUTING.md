@@ -1,6 +1,6 @@
 ### Digital Twin Note Taker
 
-Master file is added in the repository
+* Master file is added in the repository
 
 Develop your own logic for digital twin note taker
 

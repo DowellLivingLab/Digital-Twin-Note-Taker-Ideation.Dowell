@@ -1,4 +1,4 @@
-### Digital Twin Note Taker
+### How to make your contributions?
 
 * Master file is added in the repository
 

@@ -14,7 +14,7 @@ Duration:  12th October,2020 (Monday) to 30th October,2020 (Friday)
 
 Contact: DoWell Team Organizer
 
-Email: ops07@dowellresearch.in
+Email: netal@dowellresearch.in
 
 ### Participation Rules
 

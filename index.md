@@ -1,5 +1,5 @@
 ## Dowell Hackathon 1001
-We are conducting a hackathon on 'Digital Twin of Meeting Note Taker'.
+We are conducting a hackathon on '[Digital Twin](https://en.wikipedia.org/wiki/Digital_twin) of Meeting Note Taker'.
 
 [![Image of Yaktocat](https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell/blob/website/gg.png?raw=true)](https://www.youtube.com/watch?v=622-7H4ra08&feature=youtu.be ){:target="_blank" }
 

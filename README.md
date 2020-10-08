@@ -6,9 +6,12 @@ Refer wikipedia page https://en.wikipedia.org/wiki/Digital_twin to know more abo
 
 This repository is owned by DoWell and is under GPL V3.0 and Appache license. 
 
-Follow this event in
+Follow this event in......
 
 Instagram - @uxlivinglabdowell - https://www.instagram.com/uxlivinglabdowell/
+
 Twitter - @seeuser -  https://twitter.com/seeuser?lang=en
+
 Youtube - https://www.youtube.com/channel/UC_Ftf9dTQtKHS2N0KD0duwg/
+
 Linkedin - https://www.linkedin.com/events/digitaltwinofonlinemeetingnotet6718513307327844352/

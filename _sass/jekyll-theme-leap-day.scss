@@ -6,6 +6,8 @@ by Matt Graham
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark";
+@-ms-viewport{ width: device-width; }
+
 
 body {
   font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;

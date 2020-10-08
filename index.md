@@ -12,7 +12,7 @@ Location:  Online (GitHub)
 
 [Click here to visit Hackathon repository](https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell)
 
-Duration:  12th October,2020 (Monday) to 30th October,2020 (Friday)
+Duration:  12th October,2020 (Monday) to 30th October,2020 (Friday).This is an online event. So participant can contribute at their convenience during the period specified
 
 Contact: DoWell Team Organizer
 

@@ -16,6 +16,8 @@ Contact: DoWell Team Organizer
 
 Email: netalpareek@dowellresearch.in
 
+Link to repository: https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell
+
 ### Participation Rules
 
 Eligibility Criteria:

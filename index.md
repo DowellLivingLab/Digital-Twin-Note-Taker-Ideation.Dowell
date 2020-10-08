@@ -10,13 +10,14 @@ A [Digital Twin](https://en.wikipedia.org/wiki/Digital_twin) Note taker, is a co
 
 Location:  Online (GitHub)
 
+[Click here to visit Hackathon repository](https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell)
+
 Duration:  12th October,2020 (Monday) to 30th October,2020 (Friday)
 
 Contact: DoWell Team Organizer
 
 Email: netalpareek@dowellresearch.in
 
-[Click here to visit Hackathon repository](https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell)
 
 ### Participation Rules
 

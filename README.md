@@ -4,11 +4,11 @@
 
 Refer wikipedia page https://en.wikipedia.org/wiki/Digital_twin to know more about digital twin
 
-# License
+## License
 
 This repository is owned by DoWell and is under GPL V3.0 and Appache license. 
 
-# Follow this event in......
+## Follow this event in......
 
 Instagram - @uxlivinglabdowell - https://www.instagram.com/uxlivinglabdowell/
 

@@ -19,3 +19,7 @@ Twitter - @seeuser -  https://twitter.com/seeuser?lang=en
 Youtube - https://youtu.be/622-7H4ra08
 
 Linkedin - https://www.linkedin.com/events/digitaltwinofonlinemeetingnotet6718513307327844352/
+
+## Watch more videos on Digital Twin Note Taker
+
+[![Image of Yaktocat](https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell/blob/website/gg.png?raw=true)](https://www.youtube.com/watch?v=622-7H4ra08&feature=youtu.be ){:target="_blank" }

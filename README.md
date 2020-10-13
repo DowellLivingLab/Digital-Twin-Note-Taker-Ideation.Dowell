@@ -22,5 +22,6 @@ Linkedin - https://www.linkedin.com/events/digitaltwinofonlinemeetingnotet671851
 
 ## Watch more videos on Digital Twin of Meeting Notetaker
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZ4OHsOi85SX_TpKmCTi9Cg6CxeJ3d_Xy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Image of Yaktocat](https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell/blob/website/gg.png?raw=true)](https://www.youtube.com/playlist?list=PLZ4OHsOi85SX_TpKmCTi9Cg6CxeJ3d_Xy )
+
 

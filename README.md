@@ -6,6 +6,10 @@
 
 Refer wikipedia page https://en.wikipedia.org/wiki/Digital_twin to know more about digital twin
 
+
+<img width="741" alt="scorecard 1st review" src="https://user-images.githubusercontent.com/68909712/97022674-06d4da80-1572-11eb-9a01-24c90c34040a.png">
+
+
 ## License
 
 This repository is owned by DoWell and is under GPL V3.0 and Appache license. 

@@ -6,8 +6,7 @@
 4. Record the meeting
 5. Prepare notes as verbatim(speech to text transcription)
 6. Detect important keywords based on agenda
-7. Time stamp and speaker recognition has to be done(Time stamp can be achieved by speak diarization, Speech-to-Text can recognize multiple speakers in the same audio clip. 
-)
+7. Time stamp and speaker recognition has to be done(Time stamp can be achieved by speak diarization, Speech-to-Text can recognize multiple speakers in the same audio clip.)
 8. If there is any special notes to be taken more importantly we can use a special assist called upon a keyword (If coffiecient of Relation crossed a certain fixed threshold then it is consider as important keyword as soon as these keyword are detected then it will start recording.
 )
 9. All the data will be saved in the drive with audio and video clips for future uses

@@ -5,14 +5,17 @@
 3. Participate in online meeting like other members
 4. Record the meeting
 5. Prepare notes as verbatim(speech to text transcription)
-6. Detect important keywords based on agenda
-7. Time stamp and speaker recognition has to be done(Time stamp can be achieved by speak diarization, Speech-to-Text can recognize multiple speakers in the same audio clip.)
-8. If there is any special notes to be taken more importantly we can use a special assist called upon a keyword (If coffiecient of Relation crossed a certain fixed threshold then it is consider as important keyword as soon as these keyword are detected then it will start recording.
+6. Learn from images or presentation by software like image recognistion to learn more from texts and images shown in the presentation or shaed screen.
+7. Learn from the graph and data visualsation, and make note from the trend in the graph.
+8. Learn from presented videos.   
+9. Detect important keywords based on agenda
+10. Time stamp and speaker recognition has to be done(Time stamp can be achieved by speak diarization, Speech-to-Text can recognize multiple speakers in the same audio clip.)
+11. If there is any special notes to be taken more importantly we can use a special assist called upon a keyword (If coffiecient of Relation crossed a certain fixed threshold then it is consider as important keyword as soon as these keyword are detected then it will start recording.
 )
-9. All the data will be saved in the drive with audio and video clips for future uses
-10. After Speech to text  summarization of meeting has to be done
- can be done by taking the text splitting into sentences ,removing stop words, and other text preprocessing ,building a similarity matrix, finding their rank and picking top sentences from matrix. 
-11. End.
+12. All the data will be saved in the drive with audio and video clips for future uses
+13. After Speech to text  summarization of meeting has to be done
+ can be done by taking the text splitting into sentences , removing stop words, and other text preprocessing ,building a similarity matrix, finding their rank and picking top sentences from matrix. 
+14. End.
 
 
 

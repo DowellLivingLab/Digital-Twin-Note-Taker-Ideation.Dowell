@@ -7,7 +7,7 @@
 5. Prepare notes as verbatim(speech to text transcription) and aslo from the presented screen (using image to text) and compare both and make a accurate note.
 6. Learn from images or presentation by software like image recognistion to learn more from texts and images shown in the presentation or shared screen. Convert content in image to text.
 7. Learn from the graph and data visualsation, and make note from the trend in the graph.
-8. Learn from presented videos.   
+8. Learn from presented videos using object detecton and tone analyser.   
 9. Detect important keywords based on agenda
 10. Time stamp and speaker recognition has to be done(Time stamp can be achieved by speak diarization, Speech-to-Text can recognize multiple speakers in the same audio clip.)
 11. If there is any special notes to be taken more importantly we can use a special assist called upon a keyword (If coffiecient of Relation crossed a certain fixed threshold then it is consider as important keyword as soon as these keyword are detected then it will start recording.

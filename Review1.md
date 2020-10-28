@@ -6,4 +6,4 @@ The judges are going through all the additions from the participants and final s
 The winners will be announced soon after that.  
 We are expecting to launch ideation for phase 1.2 as soon this is over.
 
-[![Image of Yaktocat]https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell/blob/website/assets/images/card.png?raw=true)](https://www.youtube.com/playlist?list=PLZ4OHsOi85SX_TpKmCTi9Cg6CxeJ3d_Xy )
+[![Image of Yaktocat](https://github.com/DowellLivingLab/Digital-Twin-Note-Taker-Ideation.Dowell/blob/website/assets/images/card.png?raw=true)]

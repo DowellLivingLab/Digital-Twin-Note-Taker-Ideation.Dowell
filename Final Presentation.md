@@ -3,7 +3,7 @@ We are excited to announce that final presentation of the teams participated in 
 Please click on the link given below where you can register and join as an attendee for this event.
 https://event.webinarjam.com/register/112/n75qxa8o
 
-Note: Attendees can questions using chat option
+Note: Attendees can ask queries and participate in the session using chat option
 
 ### # digitaltwin
 ### #openinnovationacademy 

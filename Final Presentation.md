@@ -8,5 +8,7 @@ Note: Attendees can ask queries and participate in the session using chat option
 ### # digitaltwin #openinnovationacademy #userexperience #uxlivinglab #digitaltwin #hackathon
 ### #Google #Apple #WalmartHSBC #Mastercard  #IBM #Cisco #Microsoft #Samsung #Electronics
 
+![Copy of Copy of Living lab (1)](https://github.com/DowellLivingLab/Score-Card/blob/main/sand.jpg?raw=true)
+
 
 

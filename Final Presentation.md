@@ -5,19 +5,8 @@ https://event.webinarjam.com/register/112/n75qxa8o
 
 Note: Attendees can ask queries and participate in the session using chat option
 
-### # digitaltwin
-### #openinnovationacademy 
-### #userexperience 
-### #uxlivinglab 
-### #digitaltwin 
-### #Google 
-### #Apple
-### #WalmartHSBC 
-### #Mastercard 
-### #IBM 
-### #Cisco 
-### #Microsoft 
-### #Samsung 
-### #Electronics
+### # digitaltwin #openinnovationacademy #userexperience #uxlivinglab #digitaltwin 
+### #Google #Apple #WalmartHSBC #Mastercard  #IBM #Cisco #Microsoft #Samsung #Electronics
+
 
 

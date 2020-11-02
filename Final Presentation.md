@@ -1,4 +1,5 @@
-We are excited to announce that final presentation of the teams participated in the ideation phase 1.0 of DoWell ### #hackathon will be on the 3rd of Nov at 6 pm
+We are excited to announce that final presentation of the teams participated in the ideation phase 1.0 of DoWell
+### #hackathon will be on the 3rd of Nov at 6 pm
 
 Please click on the link given below where you can register and join as an attendee for this event.
 https://event.webinarjam.com/register/112/n75qxa8o

@@ -4,6 +4,6 @@ Please click on the link given below where you can register and join as an atten
 
 Note: Attendees can questions using chat option
 
-# digitaltwin #openinnovationacademy #userexperience #uxlivinglab #digitaltwin Google Apple WalmartHSBC Mastercard IBM Cisco Microsoft Samsung Electronics
+### # digitaltwin #openinnovationacademy #userexperience #uxlivinglab #digitaltwin Google Apple WalmartHSBC Mastercard IBM Cisco Microsoft Samsung Electronics
 
 https://event.webinarjam.com/register/112/n75qxa8o

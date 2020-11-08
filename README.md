@@ -7,7 +7,7 @@
 Refer wikipedia page https://en.wikipedia.org/wiki/Digital_twin to know more about digital twin
 
 
-<img width="741" alt="scorecard 1st review" src="https://user-images.githubusercontent.com/68909712/97022674-06d4da80-1572-11eb-9a01-24c90c34040a.png">
+<img width="809" alt="final score H1001" src="https://user-images.githubusercontent.com/68909712/98459413-a1632980-21c0-11eb-9695-56774e2f4466.png">
 
 
 ## License

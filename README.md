@@ -7,7 +7,7 @@
 Refer wikipedia page https://en.wikipedia.org/wiki/Digital_twin to know more about digital twin
 
 
-<img width="809" alt="final score H1001" src="https://user-images.githubusercontent.com/68909712/98459413-a1632980-21c0-11eb-9695-56774e2f4466.png">
+<img width="809" alt="final score H1001" src="https://github.com/DowellLivingLab/Score-Card/blob/main/final.png?raw=true">
 
 
 ## License

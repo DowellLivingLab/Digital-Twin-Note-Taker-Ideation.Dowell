@@ -24,9 +24,7 @@ Youtube - https://youtu.be/622-7H4ra08
 
 Linkedin - https://www.linkedin.com/events/digitaltwinofonlinemeetingnotet6718513307327844352/
 
-## Watch more videos on Digital Twin of Meeting Notetaker
 
-[![Image of Yaktocat](https://github.com/DowellLivingLab/Score-Card/blob/main/final.png?raw=true )
 
 
 
